@@ -8,12 +8,11 @@ nav:
 
 site_author: Yashwanth
 site_description: >-
-  DESCRIPTION
+  mkdocs template for documentation
 
 # Repository
 repo_name: Yashwanth1119
-repo_url: https://github.com/Yashwanth1119/mkdocs.git
-#https://github.com/c17hawke/REPO_NAME
+repo_url: https://github.com/Yashwanth1119
 
 # Configuration
 theme:
@@ -29,7 +28,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: indigo
       accent: purple 
     - scheme: slate 
       toggle:
